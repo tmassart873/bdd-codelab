@@ -1,7 +1,7 @@
-package com.example.bddcodelab.service;
+package com.example.bdd.service;
 
-import com.example.bddcodelab.domain.User;
-import com.example.bddcodelab.respository.UserRepository;
+import com.example.bdd.domain.User;
+import com.example.bdd.respository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

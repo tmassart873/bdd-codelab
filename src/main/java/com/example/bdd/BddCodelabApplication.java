@@ -1,4 +1,4 @@
-package com.example.bddcodelab;
+package com.example.bdd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

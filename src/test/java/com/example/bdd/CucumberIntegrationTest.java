@@ -1,4 +1,4 @@
-package com.example.bddcodelab;
+package com.example.bdd;
 
 import io.cucumber.junit.platform.engine.Cucumber;
 

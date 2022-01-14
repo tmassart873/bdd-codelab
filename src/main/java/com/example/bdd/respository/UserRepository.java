@@ -1,6 +1,6 @@
-package com.example.bddcodelab.respository;
+package com.example.bdd.respository;
 
-import com.example.bddcodelab.domain.User;
+import com.example.bdd.domain.User;
 import org.springframework.stereotype.Repository;
 
 import java.util.HashMap;

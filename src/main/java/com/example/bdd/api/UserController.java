@@ -1,7 +1,7 @@
-package com.example.bddcodelab.api;
+package com.example.bdd.api;
 
-import com.example.bddcodelab.domain.User;
-import com.example.bddcodelab.service.UserService;
+import com.example.bdd.domain.User;
+import com.example.bdd.service.UserService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
